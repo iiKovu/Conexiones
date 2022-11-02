@@ -1,7 +1,7 @@
 +++
 title = "Puppet - Getting Started"
 date = 2022-08-09T15:38:30+08:00
-header_img = ""
+header_img = "img/Petals.jpg"
 toc = true
 tags = ["documentation", "guide"]
 categories = []
